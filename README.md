@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShenalG)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shenalgardiwasam.github.io)
 
-**🔗 Live Demo:** https://shenalgardiwasam.me
+**🔗 Live Demo:** https://shenal.site
 
 ---
 
