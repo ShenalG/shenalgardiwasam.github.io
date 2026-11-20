@@ -39,7 +39,7 @@ I am a motivated **BSc Computer Science (Cybersecurity)** student at **Swinburne
 
 ## 📁 Repository Structure
 * **`index.html`:** Modern single-page portfolio containing Hero, About, Skills, Projects, and live Contact hub.
-* **`CNAME`:** Custom domain pointer for `shenalgardiwasam.me`.
+* **`CNAME`:** Custom domain pointer for `shenal.site`.
 * **`assets/`:** Static media assets, icons, and PDF downloads.
 
 ---
